@@ -1,2 +1,2 @@
 # graphql-spring-boot
-GraphQL Subscription with example written in Java and Spring Boot
+GraphQL server written in Java and Spring Boot
